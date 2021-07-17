@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		EB1BA3BF269AA42600E3679C /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1BA3BE269AA42600E3679C /* MenuView.swift */; };
 		EB31757B269AB277000C8D62 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB31757A269AB277000C8D62 /* Home.swift */; };
+		EB43385126A26AD800114BED /* UpdateDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB43385026A26AD800114BED /* UpdateDetail.swift */; };
 		EB80FD8026A1D81D00014DA7 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB80FD7F26A1D81D00014DA7 /* HomeView.swift */; };
 		EB80FD8226A210E500014DA7 /* UpdateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB80FD8126A210E500014DA7 /* UpdateList.swift */; };
 		EBF0A1352695405C003DB75F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBF0A1342695405C003DB75F /* AppDelegate.swift */; };
@@ -41,6 +42,7 @@
 /* Begin PBXFileReference section */
 		EB1BA3BE269AA42600E3679C /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 		EB31757A269AB277000C8D62 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		EB43385026A26AD800114BED /* UpdateDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateDetail.swift; sourceTree = "<group>"; };
 		EB80FD7F26A1D81D00014DA7 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		EB80FD8126A210E500014DA7 /* UpdateList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateList.swift; sourceTree = "<group>"; };
 		EBF0A1312695405C003DB75F /* DesignCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DesignCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -114,6 +116,7 @@
 				EB80FD7F26A1D81D00014DA7 /* HomeView.swift */,
 				EB1BA3BE269AA42600E3679C /* MenuView.swift */,
 				EB80FD8126A210E500014DA7 /* UpdateList.swift */,
+				EB43385026A26AD800114BED /* UpdateDetail.swift */,
 				EBF0A13A2695405F003DB75F /* Assets.xcassets */,
 				EBF0A13F2695405F003DB75F /* LaunchScreen.storyboard */,
 				EBF0A1422695405F003DB75F /* Info.plist */,
@@ -281,6 +284,7 @@
 				EBF0A1352695405C003DB75F /* AppDelegate.swift in Sources */,
 				EB80FD8226A210E500014DA7 /* UpdateList.swift in Sources */,
 				EB1BA3BF269AA42600E3679C /* MenuView.swift in Sources */,
+				EB43385126A26AD800114BED /* UpdateDetail.swift in Sources */,
 				EB31757B269AB277000C8D62 /* Home.swift in Sources */,
 				EB80FD8026A1D81D00014DA7 /* HomeView.swift in Sources */,
 				EBF0A1372695405C003DB75F /* SceneDelegate.swift in Sources */,
