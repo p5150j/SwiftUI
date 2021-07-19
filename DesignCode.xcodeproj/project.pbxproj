@@ -47,6 +47,7 @@
 		EBFD930E26A3550600130330 /* WorkSans-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EBFD92F826A3550600130330 /* WorkSans-ExtraBoldItalic.ttf */; };
 		EBFD930F26A3550600130330 /* WorkSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EBFD92F926A3550600130330 /* WorkSans-Bold.ttf */; };
 		EBFD931126A3E64100130330 /* MyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBFD931026A3E64100130330 /* MyView.swift */; };
+		EBFD931326A5142500130330 /* CourseList.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBFD931226A5142500130330 /* CourseList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -113,6 +114,7 @@
 		EBFD92F826A3550600130330 /* WorkSans-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WorkSans-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
 		EBFD92F926A3550600130330 /* WorkSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WorkSans-Bold.ttf"; sourceTree = "<group>"; };
 		EBFD931026A3E64100130330 /* MyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyView.swift; sourceTree = "<group>"; };
+		EBFD931226A5142500130330 /* CourseList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -172,6 +174,7 @@
 				EB80FD7F26A1D81D00014DA7 /* HomeView.swift */,
 				EBFD931026A3E64100130330 /* MyView.swift */,
 				EB1BA3BE269AA42600E3679C /* MenuView.swift */,
+				EBFD931226A5142500130330 /* CourseList.swift */,
 				EB80FD8126A210E500014DA7 /* UpdateList.swift */,
 				EB43385026A26AD800114BED /* UpdateDetail.swift */,
 				EB43385226A287B200114BED /* UpdateStore.swift */,
@@ -398,6 +401,7 @@
 				EB1BA3BF269AA42600E3679C /* MenuView.swift in Sources */,
 				EB43385926A34F7800114BED /* Modifiers.swift in Sources */,
 				EB43385126A26AD800114BED /* UpdateDetail.swift in Sources */,
+				EBFD931326A5142500130330 /* CourseList.swift in Sources */,
 				EB43385726A2947800114BED /* RingView.swift in Sources */,
 				EB31757B269AB277000C8D62 /* Home.swift in Sources */,
 				EB80FD8026A1D81D00014DA7 /* HomeView.swift in Sources */,

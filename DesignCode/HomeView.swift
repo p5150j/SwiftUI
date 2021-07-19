@@ -17,7 +17,6 @@ struct HomeView: View {
             VStack {
                 HStack {
                     Text("Watching")
-    //                    .font(.system(size: 28, weight: .bold))
                         .modifier(CustomFontModifier(size: 34))
                     Spacer()
                     AvatarView(showProfile: $showProfile)
@@ -28,7 +27,7 @@ struct HomeView: View {
                             .font(.system(size: 16, weight: .medium))
                             .frame(width: 36, height: 36)
                             .background(Color.white)
-                            .clipShape(/*@START_MENU_TOKEN@*/Circle()/*@END_MENU_TOKEN@*/)
+                        .clipShape(/*@START_MENU_TOKEN@*/Circle()/*@END_MENU_TOKEN@*/)
                             .shadow(color: Color.black.opacity(0.1), radius: 1, x: /*@START_MENU_TOKEN@*/0.0/*@END_MENU_TOKEN@*/, y: 1)
                             .shadow(color: Color.black.opacity(0.2), radius: 10, x: /*@START_MENU_TOKEN@*/0.0/*@END_MENU_TOKEN@*/, y: 10)
                     }
@@ -69,7 +68,7 @@ struct HomeView: View {
                 
                 HStack {
                     Text("Courses")
-                        .font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/).bold()
+                        .font(.title).bold()
                     Spacer()
                 }
                 .padding(.leading, 30)
@@ -79,7 +78,6 @@ struct HomeView: View {
                     .offset( y: -50)
                 
                 Spacer()
-    //            MyView()
             }
         }
     }
