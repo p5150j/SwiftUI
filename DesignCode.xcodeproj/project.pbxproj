@@ -46,6 +46,7 @@
 		EBFD930D26A3550600130330 /* WorkSans-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EBFD92F726A3550600130330 /* WorkSans-LightItalic.ttf */; };
 		EBFD930E26A3550600130330 /* WorkSans-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EBFD92F826A3550600130330 /* WorkSans-ExtraBoldItalic.ttf */; };
 		EBFD930F26A3550600130330 /* WorkSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EBFD92F926A3550600130330 /* WorkSans-Bold.ttf */; };
+		EBFD931126A3E64100130330 /* MyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBFD931026A3E64100130330 /* MyView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -111,6 +112,7 @@
 		EBFD92F726A3550600130330 /* WorkSans-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WorkSans-LightItalic.ttf"; sourceTree = "<group>"; };
 		EBFD92F826A3550600130330 /* WorkSans-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WorkSans-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
 		EBFD92F926A3550600130330 /* WorkSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WorkSans-Bold.ttf"; sourceTree = "<group>"; };
+		EBFD931026A3E64100130330 /* MyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,6 +170,7 @@
 				EB43385826A34F7800114BED /* Modifiers.swift */,
 				EB31757A269AB277000C8D62 /* Home.swift */,
 				EB80FD7F26A1D81D00014DA7 /* HomeView.swift */,
+				EBFD931026A3E64100130330 /* MyView.swift */,
 				EB1BA3BE269AA42600E3679C /* MenuView.swift */,
 				EB80FD8126A210E500014DA7 /* UpdateList.swift */,
 				EB43385026A26AD800114BED /* UpdateDetail.swift */,
@@ -401,6 +404,7 @@
 				EBF0A1372695405C003DB75F /* SceneDelegate.swift in Sources */,
 				EBF0A1392695405C003DB75F /* ContentView.swift in Sources */,
 				EB43385526A28FC200114BED /* TabBar.swift in Sources */,
+				EBFD931126A3E64100130330 /* MyView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
