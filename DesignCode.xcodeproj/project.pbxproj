@@ -16,6 +16,7 @@
 		EB43385926A34F7800114BED /* Modifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB43385826A34F7800114BED /* Modifiers.swift */; };
 		EB80FD8026A1D81D00014DA7 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB80FD7F26A1D81D00014DA7 /* HomeView.swift */; };
 		EB80FD8226A210E500014DA7 /* UpdateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB80FD8126A210E500014DA7 /* UpdateList.swift */; };
+		EBA966A926A7635700C1964A /* DataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA966A826A7635700C1964A /* DataStore.swift */; };
 		EBCF94F826A64B4A00AF887C /* CourseDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBCF94F726A64B4A00AF887C /* CourseDetail.swift */; };
 		EBCF94FA26A6879D00AF887C /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBCF94F926A6879D00AF887C /* Data.swift */; };
 		EBCF94FC26A68A0000AF887C /* PostList.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBCF94FB26A68A0000AF887C /* PostList.swift */; };
@@ -80,6 +81,7 @@
 		EB43385826A34F7800114BED /* Modifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modifiers.swift; sourceTree = "<group>"; };
 		EB80FD7F26A1D81D00014DA7 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		EB80FD8126A210E500014DA7 /* UpdateList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateList.swift; sourceTree = "<group>"; };
+		EBA966A826A7635700C1964A /* DataStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataStore.swift; sourceTree = "<group>"; };
 		EBCF94F726A64B4A00AF887C /* CourseDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseDetail.swift; sourceTree = "<group>"; };
 		EBCF94F926A6879D00AF887C /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		EBCF94FB26A68A0000AF887C /* PostList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostList.swift; sourceTree = "<group>"; };
@@ -186,6 +188,7 @@
 				EB43385026A26AD800114BED /* UpdateDetail.swift */,
 				EB43385226A287B200114BED /* UpdateStore.swift */,
 				EBCF94F926A6879D00AF887C /* Data.swift */,
+				EBA966A826A7635700C1964A /* DataStore.swift */,
 				EBCF94FB26A68A0000AF887C /* PostList.swift */,
 				EB43385426A28FC200114BED /* TabBar.swift */,
 				EBF0A13A2695405F003DB75F /* Assets.xcassets */,
@@ -411,6 +414,7 @@
 				EB1BA3BF269AA42600E3679C /* MenuView.swift in Sources */,
 				EB43385926A34F7800114BED /* Modifiers.swift in Sources */,
 				EB43385126A26AD800114BED /* UpdateDetail.swift in Sources */,
+				EBA966A926A7635700C1964A /* DataStore.swift in Sources */,
 				EBFD931326A5142500130330 /* CourseList.swift in Sources */,
 				EB43385726A2947800114BED /* RingView.swift in Sources */,
 				EB31757B269AB277000C8D62 /* Home.swift in Sources */,
