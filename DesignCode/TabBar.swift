@@ -18,6 +18,12 @@ struct TabBar: View {
                 Image(systemName: "rectangle.stack.fill")
                 Text("Cerifiascats")
             }
+            
+            PostList().tabItem {
+                Image(systemName: "rectangle.stack.fill")
+                Text("last")
+            }
+        
         }
         .edgesIgnoringSafeArea(.top)
     }
